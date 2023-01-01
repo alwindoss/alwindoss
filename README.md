@@ -7,6 +7,12 @@
   <a href="https://reddit.com/u/alwindoss"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/alwindoss?style=social"></a>
 </p>
 
+- 🔭 I’m currently working on [Vector](https://github.com/alwindoss/vector) and [Are we there yet](https://github.com/alwindoss/rvdy)
+- 🌱 I’m currently learning Kubernetes and Rust
+- 💬 Ask me about anything
+- 📫 How to reach me: on any of the social media accounts
+- ⚡ Fun fact: Nobody really gets my jokes
+
 ## Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwindoss)](https://git.io/streak-stats)
