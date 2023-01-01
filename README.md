@@ -6,6 +6,11 @@
   <a href="https://www.linkedin.com/in/alwindoss"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://reddit.com/u/alwindoss"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/alwindoss?style=social"></a>
 </p>
+
+## Github Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwindoss)](https://git.io/streak-stats)
+
 <!--
 **alwindoss/alwindoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +27,3 @@ Here are some ideas to get you started:
 -->
 
 
-### github streak :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwindoss)](https://git.io/streak-stats)
