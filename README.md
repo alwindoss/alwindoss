@@ -12,6 +12,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: on any of the social media accounts
 - ⚡ Fun fact: Nobody really gets my jokes
+- 🌏 My collection of [Important Links](https://github.com/alwindoss/alwindoss/wiki/Important-Links)
 
 ## Github Streak
 
