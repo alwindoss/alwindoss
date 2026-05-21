@@ -7,7 +7,7 @@
   <a href="https://reddit.com/u/alwindoss"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/alwindoss?style=social"></a>
 </p>
 
-- 🔭 I’m currently working on [NullMQ](https://github.com/nullmq/nmq) and [Glance](https://github.com/alwindoss/glance)
+- 🔭 I’m currently working on [Shepherd](https://github.com/alwindoss/shepherd) and [Manna](https://github.com/alwindoss/manna)
 - 🌱 I’m currently learning Kubernetes and Go
 - 💬 Ask me about anything
 - 📫 How to reach me: on any of the social media accounts
