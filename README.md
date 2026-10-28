@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Kestrel](https://github.com/alwindoss/kestrel), [Twitterati](https://github.com/alwindoss/twitterati) and [Manna](https://github.com/dailymanna/manna)
-- 🌱 I’m currently learning Kubernetes and Go
+- 🌱 I use Go for my day to day needs; to build utilities and for automation
 - 💬 Ask me about anything
 - 📫 How to reach me: on any of the social media accounts
 - ⚡ Fun fact: Nobody really gets my jokes
